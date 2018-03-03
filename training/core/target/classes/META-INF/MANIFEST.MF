@@ -1,0 +1,40 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1520011380072
+Build-Jdk: 1.8.0_151
+Built-By: Prashanth
+Bundle-Description: Core bundle for TrainingProject
+Bundle-ManifestVersion: 2
+Bundle-Name: TrainingProject - Core
+Bundle-SymbolicName: com.adobe.training.core
+Bundle-Version: 0.0.1.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: com.adobe.training.core.filters;uses:="javax.servlet";ve
+ rsion="0.0.1",com.adobe.training.core.listeners;uses:="org.osgi.service
+ .event";version="0.0.1",com.adobe.training.core.models;uses:="javax.ann
+ otation,javax.inject,org.apache.sling.api.resource,org.apache.sling.mod
+ els.annotations";version="0.0.1",com.adobe.training.core;version="1.0",
+ com.adobe.training.core.schedulers;version="0.0.1",com.adobe.training.c
+ ore.servlets;uses:="javax.servlet,org.apache.sling.api,org.apache.sling
+ .api.servlets";version="0.0.1"
+Import-Package: javax.inject;version="0.0.0",javax.annotation,javax.serv
+ let,org.apache.sling.api;version="[2.3,3)",org.apache.sling.api.request
+ ;version="[2.4,3)",org.apache.sling.api.resource;version="[2.10,3)",org
+ .apache.sling.api.servlets;version="[2.2,3)",org.apache.sling.commons.o
+ sgi;version="[2.4,3)",org.apache.sling.models.annotations;version="[1.4
+ ,2)",org.apache.sling.settings;version="[1.3,2)",org.osgi.service.event
+ ;version="[1.2,2)",org.slf4j;version="[1.5,2)"
+Provide-Capability: osgi.service;effective:=active;objectClass="javax.se
+ rvlet.Servlet";service.vendor=Adobe,osgi.service;effective:=active;obje
+ ctClass="java.lang.Runnable";scheduler.expression="*/30 * * * * ?";sche
+ duler.concurrent=false;service.vendor=Adobe,osgi.service;effective:=act
+ ive;objectClass="javax.servlet.Filter";service.ranking=-700;sling.filte
+ r.scope=REQUEST;service.vendor=Adobe,osgi.service;effective:=active;obj
+ ectClass="org.osgi.service.event.EventHandler";event.topics="org/apache
+ /sling/api/resource/Resource/*";service.vendor=Adobe
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.6))"
+Service-Component: OSGI-INF/com.adobe.training.core.servlets.SimpleServl
+ et.xml,OSGI-INF/com.adobe.training.core.filters.LoggingFilter.xml,OSGI-
+ INF/com.adobe.training.core.schedulers.SimpleScheduledTask.xml,OSGI-INF
+ /com.adobe.training.core.listeners.SimpleResourceListener.xml
+Sling-Model-Packages: com.adobe.training.core
+Tool: Bnd-2.3.0.201405100607

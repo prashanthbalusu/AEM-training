@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/training.iml" filepath="$PROJECT_DIR$/training.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/training.core.iml" filepath="$PROJECT_DIR$/core/training.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.launcher/training.it.launcher.iml" filepath="$PROJECT_DIR$/it.launcher/training.it.launcher.iml" />
+      <module fileurl="file://$PROJECT_DIR$/it.tests/training.it.tests.iml" filepath="$PROJECT_DIR$/it.tests/training.it.tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.apps/training.ui.apps.iml" filepath="$PROJECT_DIR$/ui.apps/training.ui.apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ui.content/training.ui.content.iml" filepath="$PROJECT_DIR$/ui.content/training.ui.content.iml" />
+    </modules>
+  </component>
+</project>
