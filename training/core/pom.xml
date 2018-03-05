@@ -45,6 +45,7 @@
                         -->
                         <Import-Package>javax.inject;version=0.0.0,*</Import-Package>
                         <Sling-Model-Packages>com.adobe.training.core</Sling-Model-Packages>
+                        <Bundle-Activator>com.adobe.training.core.Activator</Bundle-Activator>
                     </instructions>
                 </configuration>
             </plugin>

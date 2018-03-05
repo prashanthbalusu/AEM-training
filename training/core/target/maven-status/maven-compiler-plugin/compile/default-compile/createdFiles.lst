@@ -1,6 +1,10 @@
 com\adobe\training\core\package-info.class
-com\adobe\training\core\servlets\SimpleServlet.class
+com\adobe\training\core\Activator.class
+com\adobe\training\core\DeveloperInfo.class
 com\adobe\training\core\filters\LoggingFilter.class
+com\adobe\training\core\impl\DeveloperInfoImpl.class
+com\adobe\training\core\listeners\ReplicationListener.class
+com\adobe\training\core\servlets\SimpleServlet.class
 com\adobe\training\core\listeners\SimpleResourceListener.class
 com\adobe\training\core\models\HelloWorldModel.class
 com\adobe\training\core\schedulers\SimpleScheduledTask.class
