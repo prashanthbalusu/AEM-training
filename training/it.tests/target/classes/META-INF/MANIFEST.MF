@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1520011407832
+Bnd-LastModified: 1520283185234
 Build-Jdk: 1.8.0_151
 Built-By: Prashanth
 Bundle-Description: Bundles for Integration Tests for TrainingProject
