@@ -8,3 +8,4 @@ com\adobe\training\core\servlets\SimpleServlet.class
 com\adobe\training\core\listeners\SimpleResourceListener.class
 com\adobe\training\core\models\HelloWorldModel.class
 com\adobe\training\core\schedulers\SimpleScheduledTask.class
+com\adobe\training\core\servlets\TitleSlingServlet.class
