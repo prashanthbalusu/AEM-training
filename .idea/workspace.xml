@@ -2,13 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e43a7a39-f75f-4229-8632-e2b05a1a00c2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/training/ui.apps/src/main/content/jcr_root/apps/trainingproject/config/org.apache.sling.serviceusermaooing.impl.ServiceUserMapperImpl.amended-training.xml" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/compiler.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__biz_aQute_bndlib_1_50_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__com_adobe_aem_uber_jar_apis_6_3_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__com_day_cq_wcm_cq_wcm_taglib_5_7_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__commons_codec_commons_codec_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__commons_io_commons_io_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__javax_jcr_jcr_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__javax_servlet_servlet_api_2_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__junit_addons_junit_addons_1_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__junit_junit_4_8_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_commons_commons_exec_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_felix_org_apache_felix_scr_1_6_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_felix_org_apache_felix_scr_annotations_1_9_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_cache_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_osgi_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_nio_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_osgi_4_1_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_commons_json_2_0_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_junit_core_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_junit_remote_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_junit_scriptable_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_launchpad_base_war_webapp_2_3_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_launchpad_standalone_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_models_api_1_0_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_servlets_post_2_3_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_apache_sling_org_apache_sling_testing_tools_1_0_8.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_mockito_mockito_all_1_9_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_osgi_org_osgi_compendium_4_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_osgi_org_osgi_core_4_2_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_slf4j_slf4j_api_1_5_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_5_11.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__xerces_xercesImpl_2_6_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/libraries/Maven__xerces_xmlParserAPIs_2_6_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/training/.idea/vcs.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/training/.idea/workspace.xml" afterPath="$PROJECT_DIR$/training/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/training/ui.apps/src/main/content/jcr_root/apps/trainingproject/components/content/helloworld/helloworld.html" afterPath="$PROJECT_DIR$/training/ui.apps/src/main/content/jcr_root/apps/trainingproject/components/content/helloworld/helloworld.html" />
-      <change beforePath="$PROJECT_DIR$/training/ui.apps/target/classes/apps/trainingproject/components/content/helloworld/helloworld.html" afterPath="$PROJECT_DIR$/training/ui.apps/target/classes/apps/trainingproject/components/content/helloworld/helloworld.html" />
-      <change beforePath="$PROJECT_DIR$/training/ui.apps/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/training/ui.apps/target/maven-archiver/pom.properties" />
-      <change beforePath="$PROJECT_DIR$/training/ui.apps/target/training.ui.apps-0.0.1-SNAPSHOT.zip" afterPath="$PROJECT_DIR$/training/ui.apps/target/training.ui.apps-0.0.1-SNAPSHOT.zip" />
-      <change beforePath="$PROJECT_DIR$/training/ui.apps/target/vault-work/META-INF/vault/properties.xml" afterPath="$PROJECT_DIR$/training/ui.apps/target/vault-work/META-INF/vault/properties.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -54,10 +89,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -150,6 +184,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -157,7 +192,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="com.razorfish.platforms.intellivault.ui.IntelliiVaultSettings" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/training/pom.xml" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -270,7 +305,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1098" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -278,14 +313,13 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32975295" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25349087" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="IntelliVault" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19954649" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25725028" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -296,6 +330,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="IntelliVault" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19954649" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>

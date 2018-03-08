@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1520473907679
+Bnd-LastModified: 1520544816716
 Build-Jdk: 1.8.0_151
 Built-By: Prashanth
 Bundle-Description: Bundles for Integration Tests for TrainingProject
@@ -8,8 +8,8 @@ Bundle-Name: TrainingProject - Integration Tests Bundles
 Bundle-SymbolicName: com.adobe.training.it.tests
 Bundle-Version: 0.0.1.SNAPSHOT
 Created-By: Apache Maven Bundle Plugin
-Export-Package: com.adobe.training.it.tests;version="0.0.1";uses:="org.a
- pache.sling.junit.annotations,org.junit,org.junit.runner"
+Export-Package: com.adobe.training.it.tests;uses:="org.apache.sling.juni
+ t.annotations,org.junit,org.junit.runner";version="0.0.1"
 Import-Package: com.adobe.training.core.models;version="[0.0,1)",org.apa
  che.sling.junit.annotations;version="[1.0,2)",org.apache.sling.settings
  ;version="[1.3,2)",org.junit,org.junit.runner
