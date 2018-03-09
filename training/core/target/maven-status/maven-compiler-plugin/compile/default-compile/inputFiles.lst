@@ -1,4 +1,5 @@
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\schedulers\SimpleScheduledTask.java
+E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\StockAlertProcess.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\listeners\SimpleResourceListener.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\schedulers\CleanupScheduledTask.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\models\StockModel.java
@@ -9,9 +10,12 @@ E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\tra
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\listeners\TitlePropertyListener.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\package-info.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\Activator.java
+E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\MyProcess.java
+E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\StockDataImporter.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\listeners\ReplicationListener.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\filters\LoggingFilter.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\servlets\SlingModelServlet.java
+E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\servlets\PageCreator.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\servlets\SearchServlet.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\models\HelloWorldModel.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\ReplicationLogger.java

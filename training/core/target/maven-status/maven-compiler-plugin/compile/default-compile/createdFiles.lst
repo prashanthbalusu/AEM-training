@@ -1,5 +1,7 @@
+com\adobe\training\core\StockAlertProcess.class
 com\adobe\training\core\DeveloperInfo.class
 com\adobe\training\core\models\StockModel.class
+com\adobe\training\core\servlets\PageCreator.class
 com\adobe\training\core\impl\DeveloperInfoImpl.class
 com\adobe\training\core\ReplicationLogger.class
 com\adobe\training\core\listeners\TitlePropertyListener.class
@@ -10,8 +12,10 @@ com\adobe\training\core\package-info.class
 com\adobe\training\core\Activator.class
 com\adobe\training\core\filters\LoggingFilter.class
 com\adobe\training\core\listeners\ReplicationListener.class
+com\adobe\training\core\StockDataImporter.class
 com\adobe\training\core\schedulers\CleanupScheduledTask.class
 com\adobe\training\core\servlets\SimpleServlet.class
 com\adobe\training\core\models\HelloWorldModel.class
+com\adobe\training\core\MyProcess.class
 com\adobe\training\core\schedulers\SimpleScheduledTask.class
 com\adobe\training\core\servlets\SlingModelServlet.class
