@@ -5,6 +5,7 @@ com\adobe\training\core\servlets\PageCreator.class
 com\adobe\training\core\impl\DeveloperInfoImpl.class
 com\adobe\training\core\ReplicationLogger.class
 com\adobe\training\core\listeners\TitlePropertyListener.class
+com\adobe\training\core\servlets\CSVPageCreator.class
 com\adobe\training\core\listeners\SimpleResourceListener.class
 com\adobe\training\core\servlets\SearchServlet.class
 com\adobe\training\core\servlets\TitleSlingServlet.class

@@ -1,0 +1,23 @@
+<!--/* 
+	This should be located under /apps/trainingproject/tools/pagecreator/
+	
+	A resource must be created: 
+	/etc/trainingproject/pagecreator
+		+ sling:resourceType="trainingproject/tools/pagecreator
+ */-->
+<h3>Input a comma delimited string for the page to be created</h3>
+<table>
+  <tr>
+    <th>Page Path, </th>
+    <th>Page Title, </th>
+    <th>Page Template, </th>
+    <th>Tag, </th>
+    <th>Auto Publish?</th>
+  </tr>
+</table>
+<br />
+<br />
+<form action="/etc/trainingproject/pagecreator.json" method="POST" enctype="multipart/form-data">
+	<input style="width:60%;" name="importer" type="text" Value="/content/trainingproject/en/community,Our Community,/apps/trainingproject/templates/page-home,/etc/tags/we-retail/activity/biking,TRUE">
+	<input type="submit">
+</form>

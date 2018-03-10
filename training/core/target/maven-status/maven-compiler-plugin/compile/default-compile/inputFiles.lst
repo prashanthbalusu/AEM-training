@@ -5,6 +5,7 @@ E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\tra
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\models\StockModel.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\DeveloperInfo.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\impl\DeveloperInfoImpl.java
+E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\servlets\CSVPageCreator.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\servlets\SimpleServlet.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\servlets\TitleSlingServlet.java
 E:\dev\Github\slingmodels\AEM-training\training\core\src\main\java\com\adobe\training\core\listeners\TitlePropertyListener.java

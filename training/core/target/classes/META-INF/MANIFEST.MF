@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Bnd-LastModified: 1520619152236
+Bnd-LastModified: 1520622103551
 Build-Jdk: 1.8.0_151
 Built-By: Prashanth
 Bundle-Activator: com.adobe.training.core.Activator
@@ -80,12 +80,12 @@ Service-Component: OSGI-INF/com.adobe.training.core.impl.DeveloperInfoIm
  ets.PageCreator.xml,OSGI-INF/com.adobe.training.core.listeners.Replicat
  ionListener.xml,OSGI-INF/com.adobe.training.core.servlets.SearchServlet
  .xml,OSGI-INF/com.adobe.training.core.StockAlertProcess.xml,OSGI-INF/co
- m.adobe.training.core.schedulers.CleanupScheduledTask.xml,OSGI-INF/com.
- adobe.training.core.servlets.SimpleServlet.xml,OSGI-INF/com.adobe.train
- ing.core.servlets.TitleSlingServlet.xml,OSGI-INF/com.adobe.training.cor
- e.ReplicationLogger.xml,OSGI-INF/com.adobe.training.core.schedulers.Sim
- pleScheduledTask.xml,OSGI-INF/com.adobe.training.core.StockDataImporter
- .xml,OSGI-INF/com.adobe.training.core.listeners.SimpleResourceListener.
- xml
+ m.adobe.training.core.servlets.CSVPageCreator.xml,OSGI-INF/com.adobe.tr
+ aining.core.schedulers.CleanupScheduledTask.xml,OSGI-INF/com.adobe.trai
+ ning.core.servlets.SimpleServlet.xml,OSGI-INF/com.adobe.training.core.s
+ ervlets.TitleSlingServlet.xml,OSGI-INF/com.adobe.training.core.Replicat
+ ionLogger.xml,OSGI-INF/com.adobe.training.core.schedulers.SimpleSchedul
+ edTask.xml,OSGI-INF/com.adobe.training.core.StockDataImporter.xml,OSGI-
+ INF/com.adobe.training.core.listeners.SimpleResourceListener.xml
 Sling-Model-Packages: com.adobe.training.core
 Tool: Bnd-2.3.0.201405100607
